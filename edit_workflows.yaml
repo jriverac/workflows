@@ -1,0 +1,6 @@
+name: Edit Workflows
+command: code ~/.warp/workflows
+tags: [warp, workflows]
+description: Edit Warp Workflows
+author: Jose Rivera
+shells: [bash, zsh, fish]
